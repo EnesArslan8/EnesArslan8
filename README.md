@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am a 2nd-year student in Computer Programming at Kocaeli University.
 Jr. Frontend developer
 
 
