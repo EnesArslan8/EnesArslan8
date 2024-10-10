@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jr. Frontend developer
+Frontend developer
 
 
 ## 🌐 Socials:
